@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image: url(../img/backgrounf.jpg);
+	background-position: top center;
+	background-size: cover;
+	color: white;
+}
+
+.text1 {
+	color: white;
+}
+tr{
+	color: white;
+}
+
+
+}
+li {
+	color: black;
+}
+
+.box {
+    color: black;
+}
+
+footer {
+	background-color: steelblue;
+	padding: .5% 2%;
+	color: #fff;
+	margin: 30px 0;
+}
+
+.pslogo {
+	margin: 12% 4% 4% 4%;
+}
+
+.bannerad {
+	margin: 13% 4% 4% 4%;
+	padding-top: 50px;
+}
+
+.jborder {
+	
+}
+
+#home img {
+    margin-top: 5px;
+    margin-right: 20px;;
+    margin-bottom: 20px;
+}
+
+#home p {
+    margin-top: 12px;
+}
+
+#media img {
+    margin-top: 5px;
+    margin-right: 20px;;
+    margin-bottom: 20px;
+}
+
+#media p {
+    margin-top: 12px;
+}
+
+#contact img {
+    margin-top: 5px;
+    margin-right: 20px;;
+    margin-bottom: 20px;
+}
+
+#contact p {
+    margin-top: 12px;
+}
+
+#locateus img {
+    margin-top: 5px;
+    margin-right: 20px;;
+    margin-bottom: 20px;
+}
+
+#locateusp {
+    margin-top: 12px;
+}
